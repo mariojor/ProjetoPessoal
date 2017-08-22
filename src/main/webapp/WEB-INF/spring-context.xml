@@ -10,7 +10,7 @@
         http://www.springframework.org/schema/mvc
         http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd">
 
-  <context:component-scan base-package="br.com.projetopessoal" />
+  <context:component-scan base-package="main.java.br.com.projetopessoal" />
   <mvc:annotation-driven />
 
   <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
@@ -22,7 +22,7 @@
           class="org.springframework.context.support.ConversionServiceFactoryBean">
         <property name="converters">
             <list>
-                <bean class="br.com.projetopessoal.util.StringToEnumConverterFactory"/>
+                <bean class="main.java.br.com.projetopessoal.util.StringToEnumConverterFactory"/>
             </list>
         </property>
     </bean>
