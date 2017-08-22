@@ -1,4 +1,4 @@
-package br.com.projetopessoal.util;
+package main.java.br.com.projetopessoal.util;
 
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.core.convert.converter.ConverterFactory;

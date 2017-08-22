@@ -1,4 +1,4 @@
-package br.com.projetopessoal.model;
+package main.java.br.com.projetopessoal.model;
 
 import java.io.Serializable;
 

@@ -1,4 +1,5 @@
-package br.com.projetopessoal.util;
+package main.java.br.com.projetopessoal.util;
+
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

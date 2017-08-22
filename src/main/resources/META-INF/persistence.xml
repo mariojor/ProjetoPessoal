@@ -3,7 +3,7 @@
 	<persistence-unit name="ProjetoPessoal">
 	
 	
-	<class>main.java.br.com.projetopessoal.model.Funcionario</class>
+	<class>br.com.projetopessoal.model.Funcionario</class>
 
         <properties>
             <!-- Propriedades JDBC -->

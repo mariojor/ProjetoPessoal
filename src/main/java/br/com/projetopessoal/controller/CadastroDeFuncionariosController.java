@@ -1,4 +1,4 @@
-package br.com.projetopessoal.controller;
+package main.java.br.com.projetopessoal.controller;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import br.com.projetopessoal.model.Funcionario;
-import br.com.projetopessoal.util.FabricaDeConexoesSingleton;
+import main.java.br.com.projetopessoal.model.Funcionario;
+import main.java.br.com.projetopessoal.util.FabricaDeConexoesSingleton;
 
 @Controller
 public class CadastroDeFuncionariosController {

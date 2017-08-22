@@ -16,9 +16,9 @@
 	
 		<title>ProjetoPessoal</title>
 	
-		<link rel="stylesheet" type="text/css" href="./resources/css/estilo.css">
-		<script src="./resources/js/jquery.js"></script>
-		<script src="./resources/js/scripts.js"></script>
+		<link rel="stylesheet" type="text/css" href="../../css/estilo.css">
+		<script src="../../js/jquery.js"></script>
+		<script src="../../js/scripts.js"></script>
 		
 		<script>
 		
