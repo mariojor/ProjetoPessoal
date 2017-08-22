@@ -11,10 +11,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">  
 <title>ProjetoPessoal</title>
+
+<link rel="stylesheet" type="text/css" href="/views/estilo.css">
 </head>
 <body>
 
+	<h1>Projeto</h1>
 	<form action="formulario" method="get">
 		Sejam bem vindos ao melhor programa para busca de trabalho
 		
